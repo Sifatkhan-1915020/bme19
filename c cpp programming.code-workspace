@@ -1,0 +1,12 @@
+{
+    "folders": [
+		{
+			"path": "My Port Folio"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
